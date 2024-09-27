@@ -1,0 +1,48 @@
+{
+  "name": "@podium/semantic-release-config",
+  "version": "1.0.0",
+  "description": "Shared semantic release config used in Podium modules",
+  "exports": {
+    ".": {
+      "default": "./lib/config.js"
+    }
+  },
+  "type": "module",
+  "keywords": [
+    "semantic-release",
+    "semantic-release-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/podium-lib/semantic-release-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/podium-lib/semantic-release-config/issues"
+  },
+  "homepage": "https://github.com/podium-lib/semantic-release-config#readme",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rimraf node_modules",
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix"
+  },
+  "devDependencies": {
+    "@podium/eslint-config": "1.0.0",
+    "eslint": "9.8.0",
+    "prettier": "3.3.3",
+    "rimraf": "6.0.1",
+    "semantic-release": "24.0.0"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/commit-analyzer": "13.0.0",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "10.1.3",
+    "@semantic-release/npm": "12.0.1",
+    "@semantic-release/release-notes-generator": "14.0.1"
+  }
+}
