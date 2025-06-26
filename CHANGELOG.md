@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/podium-lib/semantic-release-config/compare/v2.0.1...v2.0.2) (2025-06-26)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/npm to v12.0.2 ([#8](https://github.com/podium-lib/semantic-release-config/issues/8)) ([7c9abee](https://github.com/podium-lib/semantic-release-config/commit/7c9abee2ec8eb0111c3b83212e5b168ba9dd2f75))
+
 ## [2.0.1](https://github.com/podium-lib/semantic-release-config/compare/v2.0.0...v2.0.1) (2025-05-25)
 
 
