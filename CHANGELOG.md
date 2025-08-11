@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/podium-lib/semantic-release-config/compare/v2.0.2...v2.0.3) (2025-08-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/github to v11.0.4 ([#12](https://github.com/podium-lib/semantic-release-config/issues/12)) ([d46f446](https://github.com/podium-lib/semantic-release-config/commit/d46f44682cdf2efbf1362323d1495038aab2caac))
+
 ## [2.0.2](https://github.com/podium-lib/semantic-release-config/compare/v2.0.1...v2.0.2) (2025-06-26)
 
 
