@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/podium-lib/semantic-release-config/compare/v2.0.4...v2.0.5) (2025-09-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#15](https://github.com/podium-lib/semantic-release-config/issues/15)) ([20b95b7](https://github.com/podium-lib/semantic-release-config/commit/20b95b71b984405efd85fb71667b05ee4af2ab24))
+
 ## [2.0.4](https://github.com/podium-lib/semantic-release-config/compare/v2.0.3...v2.0.4) (2025-08-31)
 
 
