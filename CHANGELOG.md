@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/podium-lib/semantic-release-config/compare/v2.0.6...v2.0.7) (2025-12-02)
+
+
+### Bug Fixes
+
+* update deps for npm trusted publisher ([487e6ff](https://github.com/podium-lib/semantic-release-config/commit/487e6ffdc5b7546c6c069b2389892fe7e2f5a292))
+
 ## [2.0.6](https://github.com/podium-lib/semantic-release-config/compare/v2.0.5...v2.0.6) (2025-09-11)
 
 
