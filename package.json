@@ -31,7 +31,7 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "peerDependencies": {
-    "semantic-release": ">=24.1.0"
+    "semantic-release": ">=25.0.2"
   },
   "dependencies": {
     "@semantic-release/changelog": "6.0.3",
