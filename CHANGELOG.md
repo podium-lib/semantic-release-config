@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/podium-lib/semantic-release-config/compare/v2.0.7...v3.0.0) (2025-12-11)
+
+
+### Bug Fixes
+
+* update peerDependencies to match reality ([4f12fc1](https://github.com/podium-lib/semantic-release-config/commit/4f12fc16d6af2409b1f9a6a89c2249e30ac4c2dc))
+
+
+### BREAKING CHANGES
+
+* Requires Semantic Release 25
+
 ## [2.0.7](https://github.com/podium-lib/semantic-release-config/compare/v2.0.6...v2.0.7) (2025-12-02)
 
 
