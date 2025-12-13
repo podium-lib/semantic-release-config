@@ -1,6 +1,6 @@
 {
   "name": "@podium/semantic-release-config",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Shared semantic release config used in Podium modules",
   "exports": {
     ".": {
