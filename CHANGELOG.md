@@ -1,3 +1,10 @@
+## [3.0.5](https://github.com/podium-lib/semantic-release-config/compare/v3.0.4...v3.0.5) (2026-03-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @semantic-release/npm to v13.1.5 ([#37](https://github.com/podium-lib/semantic-release-config/issues/37)) ([be2d68f](https://github.com/podium-lib/semantic-release-config/commit/be2d68f2d1ef81cad256cd11e7bdf1cb8c5c45d2))
+
 ## [3.0.4](https://github.com/podium-lib/semantic-release-config/compare/v3.0.3...v3.0.4) (2026-02-13)
 
 
