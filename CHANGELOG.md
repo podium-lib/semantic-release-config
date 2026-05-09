@@ -1,3 +1,10 @@
+## [3.0.6](https://github.com/podium-lib/semantic-release-config/compare/v3.0.5...v3.0.6) (2026-05-09)
+
+
+### Bug Fixes
+
+* **deps:** update semantic-release monorepo ([#41](https://github.com/podium-lib/semantic-release-config/issues/41)) ([a1b01c5](https://github.com/podium-lib/semantic-release-config/commit/a1b01c513aa3b9d6c190b7d0d2f28a27ae822b04))
+
 ## [3.0.5](https://github.com/podium-lib/semantic-release-config/compare/v3.0.4...v3.0.5) (2026-03-02)
 
 
