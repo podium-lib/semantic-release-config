@@ -42,7 +42,7 @@
     "@semantic-release/release-notes-generator": "14.1.1"
   },
   "devDependencies": {
-    "@podium/eslint-config": "2.0.4",
+    "@podium/eslint-config": "2.0.7",
     "eslint": "9.39.4",
     "prettier": "3.8.3",
     "rimraf": "6.1.3",
