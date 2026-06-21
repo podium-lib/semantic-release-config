@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/podium-lib/semantic-release-config.git"
+    "url": "git+https://github.com/podium-lib/semantic-release-config.git"
   },
   "publishConfig": {
     "access": "public"
